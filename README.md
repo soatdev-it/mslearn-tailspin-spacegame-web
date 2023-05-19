@@ -1,4 +1,7 @@
 
+# Exercise
+This is the training exercise
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
