@@ -1,6 +1,6 @@
 
 # Exercise
-This is the training exercise
+This is the training exercise. Codespace created.
 
 # Contributing
 
