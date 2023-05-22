@@ -1,7 +1,9 @@
 
 # Exercise
 This is the training exercise. Codespace created.
-Hello owrld
+--
+One issue that occured and needs to be investigated is the devcontainer rebuild not performing the tasks in the Dockerfile.
+The synptome was Error message: "No agent found for pool Default". This was a known bug in the agent version that was used in codespace but the container was never rebuilt with my new specs. Check if full rebuild fixes the issue.
 
 # Contributing
 
